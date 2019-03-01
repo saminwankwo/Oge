@@ -1,5 +1,7 @@
 body{
-    padding:40vh 0;
+    padding:20vh 0;
+    color: red;
+    text-align: center;
     background-color:#fff
   }
   
@@ -13,7 +15,8 @@ body{
     top: 0;
     transform: rotate(-45deg);
     position: absolute; 
-    left: 45%; top: 45%;
+    left: 45%;
+    top: 45%;
     width: 50px;
   }
   
@@ -55,3 +58,19 @@ body{
         rotate(-45deg);
     }
   }
+
+  hr{
+    padding-top:50vh;
+        border: none;
+        height: 1px;
+      
+  }
+
+  .footer{
+      padding-top:10; 
+  }
+
+  .footer a {
+      color: red;
+  }
+  
