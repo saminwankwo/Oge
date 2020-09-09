@@ -7,7 +7,7 @@ body{
   
   .heart {
     animation: heartbeat 1s infinite;
-    background-color: red;
+    background-color: blue;
     display: inline-block;
     height: 50px;
     margin: 0 10px;
