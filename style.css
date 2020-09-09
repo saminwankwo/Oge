@@ -1,13 +1,13 @@
 body{
     padding:20vh 0;
-    color: blue;
+    color: red;
     text-align: center;
     background-color:#fff
   }
   
   .heart {
     animation: heartbeat 1s infinite;
-    background-color: blue;
+    background-color: red;
     display: inline-block;
     height: 50px;
     margin: 0 10px;
@@ -23,7 +23,7 @@ body{
   .heart:before,
   .heart:after {
     content: "";
-    background-color: blue;
+    background-color: red;
     border-radius: 50%;
     height: 50px;
     position: absolute;
