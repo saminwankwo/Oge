@@ -23,7 +23,7 @@ body{
   .heart:before,
   .heart:after {
     content: "";
-    background-color: red;
+    background-color: blue;
     border-radius: 50%;
     height: 50px;
     position: absolute;
